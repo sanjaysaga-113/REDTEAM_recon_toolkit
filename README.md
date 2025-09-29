@@ -1,7 +1,7 @@
 ##  Setup Instructions
 ### 1️⃣ Clone the Tool Repository
 ```bash
-git clone https://github.com/Tharun-script/cts_recon.git
+git clone https://github.com/sanjaysaga-113/REDTEAM_recon_toolkit.git
 ```
 ### 2️⃣Create a Python Virtual Environment
 ```bash
@@ -166,3 +166,4 @@ execute the pipeline.py
 ```python 
 python3 pipeline.py
 ```
+
